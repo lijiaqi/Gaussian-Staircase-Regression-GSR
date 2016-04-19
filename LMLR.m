@@ -17,7 +17,7 @@ function score= LMLR( features,Ml,Sl,Mh,Sh )
             pH=[pH;GaussianPDF(features(t,:)' ,Mh(:,i),Sh(:,nbfea*(i-1)+1:nbfea*i))];
             pL=[pL;GaussianPDF(features(t,:)' ,Ml(:,i),Sl(:,nbfea*(i-1)+1:nbfea*i))];
         end
-        score(i)=log(sum(pL)/sum(pH));
+        score(i)=log(sum(pH)/sum(pL));
     end
 
 end
