@@ -14,16 +14,9 @@ paper: ["Vocal Biomarkers of Depression Based on Motor Incoordination"][5]
 
 ## Used on: Correlation structure features in vocal and physiological modalities
 
-![feature][3]
-
-![feature][4]
 
 [1]:https://github.com/Li-Jiaqi/Gaussian-Staircase-Regression-GSR/blob/master/illustrations/GSR.PNG
 
 [2]:https://github.com/Li-Jiaqi/Gaussian-Staircase-Regression-GSR/blob/master/illustrations/regress.png
-
-[3]:https://github.com/Li-Jiaqi/Gaussian-Staircase-Regression-GSR/blob/master/illustrations/223_2_MFCC_R1.bmp
-
-[4]:https://github.com/Li-Jiaqi/Gaussian-Staircase-Regression-GSR/blob/master/illustrations/241_2_MFCC_R1.bmp
 
 [5]: http://dl.acm.org/citation.cfm?id=2512531 "link of paper"
