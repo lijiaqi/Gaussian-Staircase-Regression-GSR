@@ -3,7 +3,7 @@ Gaussian staircase regression
 
 An implementation of Gaussian Staircase Rregression(GSR) proposed by MIT Lincoln Laboratory.
 
-[Vocal Biomarkers of Depression Based on Motor Incoordination"][5]
+paper: ["Vocal Biomarkers of Depression Based on Motor Incoordination"][5]
 
 
 ## Gaussion Staircases Regression based on multiple Gaussian pairs
